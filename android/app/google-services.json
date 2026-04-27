@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697812413516",
+    "project_id": "todosapp-lab4",
+    "storage_bucket": "todosapp-lab4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697812413516:android:9bc5f59aab15cc635858e9",
+        "android_client_info": {
+          "package_name": "com.example.thainguyenthienduyen_2224802010197_lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-szr9Kfclnent---0pebraV3Wek1sF90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
